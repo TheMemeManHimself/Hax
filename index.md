@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/TheMemeManHimself/Hax/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[https://i.imgur.com/oESeJeB.png](:P)
+[https://i.imgur.com/oESeJeB.png](url)
 
 ### Markdown
 
